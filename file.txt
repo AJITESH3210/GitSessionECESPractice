@@ -1,3 +1,7 @@
 Hello, I am some text in the file.
 Some random text edited
+<<<<<<< HEAD
 This year is 2024.
+=======
+This is year 2024.
+>>>>>>> ajitesh
